@@ -15,7 +15,7 @@ As Internet usage has increased over the years, so has the importance of data pr
 
 ## Content
 ---
-* [Courses](#courses)
+* [Educational Courses](#educational-courses)
 * [Books](#books)
 * [Guides and Checklists](#guides-and-checklists)
 * [Tools and Libraries](#tools-and-libraries)
@@ -27,7 +27,7 @@ As Internet usage has increased over the years, so has the importance of data pr
 * [Certifications](#certifications)
 * [Miscellaneous](#miscellaneous)
 
-### Courses
+### Educational Courses
 ---
 * [PSU  -  Privacy in Statistical Databases](http://www.cse.psu.edu/~ads22/courses/privacy598d/www/) (Fall 2007)
 * [UPENN - Data Privacy](http://www.cis.upenn.edu/~aaroth/courses/privacyF11.html) (Fall 2011)
