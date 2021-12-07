@@ -5,6 +5,8 @@
 
 As Internet usage has increased over the years, so has the importance of data privacy. Websites, applications, and social media platforms often need to collect and store personal data about users in order to provide services. 
 
+![Data Privacy](https://github.com/paulveillard/cybersecurity-data-privacy/blob/main/data-privacy.png)
+
 [Data privacy](https://en.wikipedia.org/wiki/Information_privacy) or information privacy is a branch of data security concerned with the proper handling of data – consent, notice, and regulatory obligations. More specifically, practical data privacy concerns often revolve around:
 
 * Whether or how data is shared with third parties.
