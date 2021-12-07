@@ -13,7 +13,7 @@ As Internet usage has increased over the years, so has the importance of data pr
 * How data is legally collected or stored.
 * Regulatory restrictions such as GDPR, HIPAA, GLBA, or CCPA.
 
-## Content
+## Contents
 ---
 * [Educational Courses](#educational-courses)
 * [Books](#books)
