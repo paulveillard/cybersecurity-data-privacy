@@ -13,7 +13,7 @@ As Internet usage has increased over the years, so has the importance of data pr
 * How data is legally collected or stored.
 * Regulatory restrictions such as GDPR, HIPAA, GLBA, or CCPA.
 
-## Contents
+## Table of Contents
 ---
 * [Educational Courses](#educational-courses)
 * [Books](#books)
@@ -163,3 +163,13 @@ Tools related to general privacy can be found in [privacy-respecting](https://gi
 * [The new EU General Data Protection Regulation in Under 60 Minutes!](https://www.youtube.com/watch?v=NxgZ57BTkFQ)
 * [Facebook CEO Mark Zuckerberg testimony on data privacy before Senate committee](https://www.youtube.com/watch?v=GQN4On0K7-w)
 * [Data Privacy for Data Scientists](https://github.com/KIProtect/data-privacy-for-data-scientists)
+
+
+**[`^        back to top        ^`](#)**
+
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.****
